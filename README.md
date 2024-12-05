@@ -10,7 +10,6 @@ Django is a high-level Python web framework that allows rapid development of sec
 | **Resource**                     | **Link**                                                  |
 |-----------------------------------|-----------------------------------------------------------|
 | Django Official Documentation     | [Django Documentation](https://www.djangoproject.com/)  📄    |
-| Python Official Documentation     | [Python Documentation](https://docs.python.org/)  📄        |
 | MDN Web Docs (for HTML, CSS, JS)  | [MDN Web Docs](https://developer.mozilla.org/en-US/) 📄      |
 | Shradha Khapra Javascript Full Course Series  | [Shradha Khapra](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW])  ▶️   |
 
