@@ -2,7 +2,7 @@
 ![Django](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Django.png)
 
 ## 🚀 **Journey Overview**  
-This repository tracks my 30-day journey of learning Django to enhance my web development skills for machine learning and AI applications. 
+This repository tracks my 35-day journey of learning Django to enhance my web development skills for machine learning and AI applications. 
 ## 📖 **Django**  
 Django is a high-level Python web framework that allows rapid development of secure and scalable web applications.  
 ## 📚 **Resources**  
