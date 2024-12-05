@@ -1,4 +1,5 @@
 # **30 Days of Learning Django for Machine Learning and AI**  
+![Django](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Django.png)
 
 ## 🚀 **Journey Overview**  
 This repository tracks my 30-day journey of learning Django to enhance my web development skills for machine learning and AI applications. Follow along as I document daily progress, key learnings, and mini-projects!  
