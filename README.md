@@ -32,8 +32,16 @@ Django is a high-level Python web framework that allows rapid development of sec
 
 ### **Key Learnings:**  
 - Understanding the Django project structure and app integration.
+
+  
 - How to configure basic URL routing in Django.
 - How to serve HTTP responses via views.
 
 ### **Code Implementation 💻**  
 In this step, I created a basic Django view that returns a welcome message and set up URL routing to display it on the homepage.
+
+![code](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Codes/code_day_1.png)
+
+After running the server
+
+
