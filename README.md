@@ -1,4 +1,4 @@
-# **30 Days of Learning Django for Machine Learning and AI**  
+# **35 Days of Learning Django for Machine Learning and AI**  
 ![Django](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Django.png)
 
 ## 🚀 **Journey Overview**  
