@@ -43,5 +43,6 @@ In this step, I created a basic Django view that returns a welcome message and s
 ![code](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Codes/code_day_1.png)
 
 After running the server
+![code](https://github.com/Sahash-Rai/35_Days_Of_Learning_Django/blob/main/assets/Codes/code_day_1-2.png)
 
 
